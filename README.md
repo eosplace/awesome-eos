@@ -14,13 +14,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     
 ## dApp Projects
 
--[OracleChain](http://oraclechain.io/) - As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios.
--[Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
--[Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
--[Scatter](http://scatter-eos.com/) - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
--[Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
--[EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
--[SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
+- [OracleChain](http://oraclechain.io/) - As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios.
+- [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
+- [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
+- [Scatter](http://scatter-eos.com/) - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
+- [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
+- [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
+- [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Mithril](https://mithrilcoin.io/) - Next-generation mobile game advertising on the blockchain.
 - [ONEPAY](https://one-pay.io/) - ONEPAY is a revolutionary point of sale (POS) system that allows businesses around the world to begin receiving major cryptocurrencies as payments from customers.
