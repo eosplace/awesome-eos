@@ -10,6 +10,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
+    - [Block Producers](#block-producers)
     
     
 ## dApp Projects
@@ -34,3 +35,5 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
 - [Emanate](https://emanate.live/) - Discover sound from the source.
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
+
+## Block Producers
