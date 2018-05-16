@@ -33,7 +33,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [ONO](http://www.ono.chat/) - The world’s largest free, open-source, decentralized social network for new generation.
 - [OracleChain](https://oraclechain.io/index-en) - As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios.
 - [PlACTAL](https://plactal.io/) - Tokenizing Billions of Gamer’s Experience. A Portal to EOS Ecology.
-- [Scatter]** (http://scatter-eos.com/) - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
+- [Scatter](http://scatter-eos.com/) ** - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
