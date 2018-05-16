@@ -37,6 +37,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
-
+- [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
 
 ## Block Producers
