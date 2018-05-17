@@ -29,6 +29,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [IRYO](https://iryo.io/) - Redefining Global Healthcare. Unleashing the value of medical data for the new decentralised healthcare economy.
 - [MEET.ONE](https://meet.one/en/) - A Portal to EOS Ecology.
 - [Mithril](https://mithrilcoin.io/) - Next-generation mobile game advertising on the blockchain.
+- [Nebula](https://www.nebulaprotocol.com/) -  Nebula is a decentralized, curated list of professionals and job opportunities.
 - [ONEPAY](https://one-pay.io/) - ONEPAY is a revolutionary point of sale (POS) system that allows businesses around the world to begin receiving major cryptocurrencies as payments from customers.
 - [ONO](http://www.ono.chat/) - The world’s largest free, open-source, decentralized social network for new generation.
 - [OracleChain](https://oraclechain.io/index-en) - As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios.
