@@ -12,6 +12,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [dApp Projects](#dapp-projects)
     - [Block Producers](#block-producers)
     - [Services](#services)
+    - [EOS Client Libraries](#eos-client-libraries)
   
 ## dApp Projects                                                               
                                                                  
@@ -42,3 +43,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## Block Producers
 
 ## Services
+
+## EOS Client Libraries
+
+- [EOSFactory](http://eosfactory.io/) - is a Python-based smart-contract development & testing framework
