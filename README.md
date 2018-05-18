@@ -13,7 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
     - [Block Producers](#block-producers)
-    
+    - [Services](#services)
     
 ## dApp Projects
 
@@ -52,3 +52,5 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
 
 ## Block Producers
+
+## Services
