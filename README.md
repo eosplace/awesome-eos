@@ -44,10 +44,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Block Producers Candidates
 
+#### East Asia
+- [Bitfinex](https://www.bitfinex.com/eos/) (Hong Kong)
+
 #### North America
-- [EOS Detroit](http://eosdetroit.com/)
+- [EOS Detroit](http://eosdetroit.com/) (USA)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time (Canada)
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away  (USA)
+
+#### Middle East
+- [LiquidEOS](https://liquideos.com/) - EOS Block Producer Candidate based in Israel and led by Bancor (Israel)
 
 #### South America
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
