@@ -10,7 +10,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
-    - [Block Producers](#block-producers)
+    - [Block Producers Candidates](#block-producers-candidates)
     - [EOS Client Libraries](#eos-client-libraries)
     - [Services](#services)    
     - [Tools](#tools)    
@@ -42,7 +42,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
 
-## Block Producers
+## Block Producers Candidates
 
 #### North America
 - [EOS Detroit](http://eosdetroit.com/)
