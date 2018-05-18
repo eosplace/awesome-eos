@@ -66,14 +66,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## Services
 
 ## Tools
-
+  
+- [eos-bios](https://github.com/eoscanada/eos-bios) - EOS.IO BIOS Program, to kickstart a new network.  
 - [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet. 
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
-
-
-
-
