@@ -8,15 +8,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 #### *If you see a article, software or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-** Already launched projects (beta or production)
-
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
     - [Block Producers](#block-producers)
     - [Services](#services)
-    
-## dApp Projects
-
+  
+## dApp Projects                                                               
+                                                                  ** Already launched projects (beta or production)
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
 ***
