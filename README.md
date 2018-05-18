@@ -1,6 +1,6 @@
 # Awesome EOS
 
-A curated list of awesome EOS resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome EOS resources for developers. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
 
