@@ -13,6 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Block Producers](#block-producers)
     - [EOS Client Libraries](#eos-client-libraries)
     - [Services](#services)    
+    - [Tools](#tools)    
   
 ## dApp Projects                                                               
                                                                  
@@ -48,3 +49,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Services
 
+## Tools
+
+- [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet. 
+- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
