@@ -1,6 +1,6 @@
 # Awesome EOS
 
-A curated list of awesome EOS resources for developers. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome [Eos.io](http://eos.io/) resources for developers. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
 
@@ -20,6 +20,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
+- [Chintai](https://chintai-eos.io//) :zap: - High performance, fee-less community owned token leasing platform. 
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
 - [Emanate](https://emanate.live/) - Discover sound from the source.
@@ -64,6 +65,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 
 ## Services
+
+- [EOS Authority](https://eosauthority.com/) :zap: - A tool that helps you make sure that the public key with EOS is registered correctly.
+- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
+- [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
+- [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
+- [EOS Projects](https://eosprojects.org/) - Another directory of Projects based around EOS
+- [EOS Tracker](http://eostracker.io/) - EOS Block Explorer
 
 ## Tools
   
