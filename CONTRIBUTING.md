@@ -16,13 +16,10 @@ Please contribute links to packages/projects you have used or are familiar with.
 ## Quality standards
 
 - Code functions as documented and expected
-- Generally useful to the wider community of Go programmers
 - Actively maintained
   - Regular, recent commits
   - Or, for finished projects, issues and pull requests are responded to
 - Stable or progressing toward stable
-- Thoroughly documented (README, godoc comments, etc.)
-- Tests, where practical. If the library/program is testable, then coverage should be >= 80% for non-data-related packages and >=90% for data related packages. **Notice**: the tests will be reviewed too. We will check your coverage manually if your package's coverage is just a benchmark results.
 
 
 ## Maintainers
