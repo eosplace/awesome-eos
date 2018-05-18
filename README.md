@@ -45,7 +45,23 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## EOS Client Libraries
 
+### Go
+- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API Wrapper for Golang
+
+### JavaScript
+- [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
+- [eosjs-api](https://github.com/EOSIO/eosjs) - EOS api wrapper for JS
+- [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
+- [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
+- [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
+
+### Python
+- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [EOSFactory](http://eosfactory.io/) - is a Python-based smart-contract development & testing framework
+
+### Scala
+- [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
+
 
 ## Services
 
