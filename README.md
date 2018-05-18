@@ -19,7 +19,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
-
+***
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
