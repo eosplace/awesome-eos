@@ -44,6 +44,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Block Producers
 
+#### North America
+- [EOS Detroit](http://eosdetroit.com/)
+- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time (Canada)
+- [EOS New York](https://www.eosnewyork.io/) - Everything a block away  (USA)
+
+#### South America
+- [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
+
+#### Europe
+- [EOS London](https://eos42.io/) - Empowering the Community (England)
+
 ## EOS Client Libraries
 
 #### Go
