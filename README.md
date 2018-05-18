@@ -6,7 +6,7 @@ A curated list of awesome [Eos.io](http://eos.io/) resources for developers. Ins
 
 Please take a quick gander at the [contribution guidelines](https://github.com/eosplace/awesome-eos/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/eosplace/awesome-eos/blob/master/MAINTAINERS); you rock!
 
-#### *If you see a article, software or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+#### *If you see an article, software or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
@@ -46,21 +46,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## EOS Client Libraries
 
-### Go
+#### Go
 - [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API Wrapper for Golang
 
-### JavaScript
+#### JavaScript
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
 - [eosjs-api](https://github.com/EOSIO/eosjs) - EOS api wrapper for JS
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
 
-### Python
+#### Python
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [EOSFactory](http://eosfactory.io/) - is a Python-based smart-contract development & testing framework
 
-### Scala
+#### Scala
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
 
 
