@@ -47,6 +47,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 #### East Asia
 - [Bitfinex](https://www.bitfinex.com/eos/) (Hong Kong)
+- [Eosys](http://http://eosys.io/) - The First EOS Block Producer Candidate from Korea (Korea)
+
 
 #### North America
 - [EOS Detroit](http://eosdetroit.com/) (USA)
