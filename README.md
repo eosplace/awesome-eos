@@ -25,6 +25,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
 - [Emanate](https://emanate.live/) - Discover sound from the source.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
+- [EOSDAQ](http://www.eosdaq.com) - EOS Native Decentralized Cryptocurrency Exchange.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
 - [Insights Network](https://insights.network/) - Blockchain-Based Data Exchange. EOS gives Dapp Builder’s the ability to build Commercial Scale DApps and support thousands of transactions per second with Parallel Execution, Asynchronous Communication and Separates Authentication from Execution.
