@@ -64,6 +64,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Europe
 - [EOS London](https://eos42.io/) - Empowering the Community (England)
 
+#### Oceania
+- [EOShere](https://www.eosphere.io/) - Enterprise class Block Production and Governance serving the entire EOShere (Australia)
+
 ## EOS Client Libraries
 
 #### Go
