@@ -60,6 +60,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Oracle Chain](https://oraclechain.io/index-en/) (China)
 
 #### Europe
+
+- [EOS Authority](https://eosauthority.com/) (England)
+- [EOSDAC](https://eosdac.io/) (England)
 - [EOS London](https://eos42.io/) - Empowering the Community (England)
 - [EOSVibes](https://www.eosvibes.io/) (Netherlands)  
 - [EOS Sweden](http://eosio.se/) - Empowering the Community (Sweden)
@@ -68,6 +71,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [LiquidEOS](https://liquideos.com/) - EOS Block Producer Candidate based in Israel and led by Bancor (Israel)
 
 #### North America
+- [Blockgenic](https://blockgenic.website/) (USA)            
 - [Cypherglass](https://www.cypherglass.com) (USA)
 - [EOS Canada](https://www.eoscanada.com/) (Canada)
 - [EOS Detroit](http://eosdetroit.com/) (USA)
