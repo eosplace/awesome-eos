@@ -50,6 +50,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Block Producers Candidates
 
+#### Last Report - [:zap:](https://steemit.com/eos/@eosgo/block-producer-candidate-report-9-may-16-2018/)
 #### East Asia
 - [Bitfinex](https://www.bitfinex.com/eos/) (Hong Kong)
 - [EOS Asia](https://www.eosasia.one/) (Hong Kong)
