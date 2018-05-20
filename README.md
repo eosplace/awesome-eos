@@ -52,15 +52,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 #### East Asia
 - [Bitfinex](https://www.bitfinex.com/eos/) (Hong Kong)
+- [EOS Asia](https://www.eosasia.one/) (Hong Kong)
 - [EOS Gravity](http://eosgravity.com/) (China) 
 - [EOS Ono](https://www.ono.chat/en/) (China)
 - [Eosys](http://eosys.io/) - The First EOS Block Producer Candidate from Korea (Korea)
 - [Oracle Chain](https://oraclechain.io/index-en/) (China)
 
-
 #### Europe
 - [EOS London](https://eos42.io/) - Empowering the Community (England)
-- [EOSVibes](https://www.eosvibes.io/) (Netherlands)
+- [EOSVibes](https://www.eosvibes.io/) (Netherlands)  
+- [EOS Sweden](http://eosio.se/) - Empowering the Community (Sweden)
 
 #### Middle East
 - [LiquidEOS](https://liquideos.com/) - EOS Block Producer Candidate based in Israel and led by Bancor (Israel)
@@ -76,6 +77,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOShere](https://www.eosphere.io/) - Enterprise class Block Production and Governance serving the entire EOShere (Australia)
 
 #### South America
+- [EOS Argentina](www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
 
 ## EOS Client Libraries
