@@ -56,6 +56,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 
 #### North America
+- [Cypherglass](https://www.cypherglass.com) (USA)
+- [EOS Canada](https://www.eoscanada.com/) (Canada)
 - [EOS Detroit](http://eosdetroit.com/) (USA)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time (Canada)
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away  (USA)
