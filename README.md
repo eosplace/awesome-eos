@@ -24,12 +24,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
 - [Emanate](https://emanate.live/) - Discover sound from the source.
+- [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
 - [EOSDAQ](http://www.eosdaq.com) - EOS Native Decentralized Cryptocurrency Exchange.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
 - [Insights Network](https://insights.network/) - Blockchain-Based Data Exchange. EOS gives Dapp Builder’s the ability to build Commercial Scale DApps and support thousands of transactions per second with Parallel Execution, Asynchronous Communication and Separates Authentication from Execution.
+- [Irespo](https://irespo.com/) - The blockchain technology solution to transparent and effective global data exchange and analysis.
 - [IRYO](https://iryo.io/) - Redefining Global Healthcare. Unleashing the value of medical data for the new decentralised healthcare economy.
+- [MedicalDAO](http://medicaldao.io/) - Decentralize decision making in the medical industry
 - [MEET.ONE](https://meet.one/en/) - A Portal to EOS Ecology.
 - [Mithril](https://mithrilcoin.io/) - Next-generation mobile game advertising on the blockchain.
 - [Nebula](https://www.nebulaprotocol.com/) -  Nebula is a decentralized, curated list of professionals and job opportunities.
@@ -37,8 +40,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [ONO](http://www.ono.chat/) - The world’s largest free, open-source, decentralized social network for new generation.
 - [OracleChain](https://oraclechain.io/index-en) - As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios.
 - [PlACTAL](https://plactal.io/) - Tokenizing Billions of Gamer’s Experience. A Portal to EOS Ecology.
+- [Prospectors](https://prospectors.io/) - Massive Multiplayer Online Real Time Economic Strategy
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
+- [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
