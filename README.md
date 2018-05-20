@@ -78,7 +78,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOShere](https://www.eosphere.io/) - Enterprise class Block Production and Governance serving the entire EOShere (Australia)
 
 #### South America
-- [EOS Argentina](www.eosargentina.io/) (Argentina)
+- [EOS Argentina](https://www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
 
 ## EOS Client Libraries
