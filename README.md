@@ -50,7 +50,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Block Producers Candidates
 
-#### Last Report - [:zap:](https://steemit.com/eos/@eosgo/block-producer-candidate-report-9-may-16-2018/)
+#### [Last Report](https://steemit.com/eos/@eosgo/block-producer-candidate-report-9-may-16-2018/) :zap:
 #### East Asia
 - [Bitfinex](https://www.bitfinex.com/eos/) (Hong Kong)
 - [EOS Asia](https://www.eosasia.one/) (Hong Kong)
@@ -88,7 +88,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## EOS Client Libraries
 
 #### Go
-- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API Wrapper for Golang
+- [eosapi](https://github.com/eoscanada/eos-go) - EOS' JSON API Wrapper for Golang
 
 #### JavaScript
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
