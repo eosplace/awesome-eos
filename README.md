@@ -13,7 +13,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Block Producers Candidates](#block-producers-candidates)
     - [EOS Client Libraries](#eos-client-libraries)
     - [Services](#services)    
-    - [Tools](#tools)    
+    - [Tools](#tools)
+    - [Sample Contracts](#sample-contracts)
   
 ## dApp Projects                                                               
                                                                  
@@ -123,3 +124,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
+
+## Sample Contracts
+
+- [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
+- [Monstereos](https://github.com/leordev/monstereos/tree/master/contracts/pet) - Just a Tamagotchi Game on EOS Blockchain for Fun...
+- [Shine](https://github.com/eoscanada/shine/tree/master/contract) - Shine contracts
