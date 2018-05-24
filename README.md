@@ -105,6 +105,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Scala
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
 
+#### Typescript
+- [eostypescript](https://github.com/EOSArgentina/eostypescript) - EOS TYPESCRIPT Library (contracts in typescript)
 
 ## Services
 
