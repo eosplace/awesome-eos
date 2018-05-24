@@ -11,7 +11,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
     - [Block Producers Candidates](#block-producers-candidates)
-    - [EOS Client Libraries](#eos-client-libraries)
+    - [EOS Libraries](#eos-libraries)
     - [Services](#services)    
     - [Tools](#tools)
     - [Sample Contracts](#sample-contracts)
@@ -86,7 +86,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Argentina](https://www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
 
-## EOS Client Libraries
+## EOS Libraries
 
 #### Go
 - [eosapi](https://github.com/eoscanada/eos-go) :zap: - EOS' JSON API Wrapper for Golang
