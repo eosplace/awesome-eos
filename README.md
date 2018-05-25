@@ -16,7 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Sample Contracts](#sample-contracts)
   
-## dApp Projects (#35)                                                               
+## dApp EOS Projects (### 40)                                                               
                                                                  
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
@@ -47,12 +47,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [OracleChain](https://oraclechain.io/index-en) - As the world’s first application built on an EOS ecosphere, OracleChain needs to meet the demands of the Oracle (oracle machine) ecosystem by efficiently linking blockchain technology services with various real-life scenarios.
 - [PlACTAL](https://plactal.io/) - Tokenizing Billions of Gamer’s Experience. A Portal to EOS Ecology.
 - [Prospectors](https://prospectors.io/) - Massive Multiplayer Online Real Time Economic Strategy
+- [Qobox](https://qobox.io/) - One step to make your ideas.
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
 - [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
+- [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
+- [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
+- [Uncloak](https://uncloak.io/) - Next Generation Cyber Security Threat Management
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
+- [Worbli](https://www.worbli.io/) -The future of banking and financial blockchain services
 
 ## Block Producers Candidates
 
