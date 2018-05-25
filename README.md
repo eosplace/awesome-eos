@@ -143,3 +143,5 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Shine](https://github.com/eoscanada/shine/tree/master/contract) - Implementation of a recognition system based on praise and votes
 - [Timeos](https://github.com/sim31/timeos) - For timestamping service on EOS blockchain
 - [Voting](https://github.com/EOSMore/eos-contracts/tree/dev/more.voting) - Simple voting implementation
+
+[Home](#awesome-eos)
