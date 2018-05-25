@@ -69,17 +69,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Ono](https://www.ono.chat/en/) (China)
 - [Eosys](http://eosys.io/) - The First EOS Block Producer Candidate from Korea (Korea)
 - [Oracle Chain](https://oraclechain.io/index-en/) (China)
-
 #### Europe
 - [EOS Authority](https://eosauthority.com/) (England)
 - [EOSDAC](https://eosdac.io/) (England)
 - [EOS London](https://eos42.io/) - Empowering the Community (England)
 - [EOSVibes](https://www.eosvibes.io/) (Netherlands)  
 - [EOS Sweden](http://eosio.se/) - Empowering the Community (Sweden)
-
 #### Middle East
 - [LiquidEOS](https://liquideos.com/) - EOS Block Producer Candidate based in Israel and led by Bancor (Israel)
-
 #### North America
 - [Blockgenic](https://blockgenic.website/) (USA)            
 - [Cypherglass](https://www.cypherglass.com) (USA)
@@ -87,10 +84,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Detroit](http://eosdetroit.com/) (USA)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time (Canada)
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away  (USA)
-
 #### Oceania
 - [EOShere](https://www.eosphere.io/) - Enterprise class Block Production and Governance serving the entire EOShere (Australia)
-
 #### South America
 - [EOS Argentina](https://www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
@@ -104,21 +99,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 #### Go
 - [eosapi](https://github.com/eoscanada/eos-go) :zap: - EOS' JSON API Wrapper for Golang
-
 #### JavaScript
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
 - [eosjs-api](https://github.com/EOSIO/eosjs) - EOS api wrapper for JS
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
-
 #### Python
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [EOSFactory](http://eosfactory.io/) - is a Python-based smart-contract development & testing framework
-
 #### Scala
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
-
 #### Typescript
 - [eostypescript](https://github.com/EOSArgentina/eostypescript) - EOS TYPESCRIPT Library (contracts in typescript)
 
