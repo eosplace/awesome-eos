@@ -19,6 +19,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## dApp EOS Projects (40)                                                               
                                                                  
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
+- [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
 - [Chintai](https://chintai-eos.io/) :zap: - High performance, fee-less community owned token leasing platform. 
@@ -57,7 +58,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Uncloak](https://uncloak.io/) - Next Generation Cyber Security Threat Management
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
-- [Worbli](https://www.worbli.io/) -The future of banking and financial blockchain services
+- [Worbli](https://www.worbli.io/) - The future of banking and financial blockchain services
+- [Zimbra](https://www.worbli.io/) - Container-based, cloud-native product that can leverage the advancements of blockchain technology.
 
 ## Block Producers Candidates
 
@@ -92,8 +94,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Developers Channels
 - [EOS Developer Telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ) :zap: - The main EOS developer's discussion channel
+- [EOS docs](https://www.eosdocs.io/) - Community contributed to exceptional EOS documentation
+- [EOS essentials](https://github.com/EOSEssentials/) - Colletion of EOS essentials projects  
 - [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
-- [Reddit](https://www.reddit.com/r/EOSDev/) 
+- [Reddit](https://www.reddit.com/r/EOSDev/) - Reddit EOS developer's channel
+
+
 
 ## EOS Libraries
 
