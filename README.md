@@ -10,7 +10,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
     - [Block Producers Candidates](#block-producers-candidates)
-    - [Developers Channels](#Developers-Channels)
+    - [Developers Channels](#developers-channels)
     - [EOS Libraries](#eos-libraries)
     - [Services](#services)    
     - [Tools](#tools)
