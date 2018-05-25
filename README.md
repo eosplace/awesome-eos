@@ -3,7 +3,6 @@
 A curated list of awesome [Eos.io](http://eos.io/) resources for developers. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
-
 Please take a quick gander at the [contribution guidelines](https://github.com/eosplace/awesome-eos/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/eosplace/awesome-eos/blob/master/MAINTAINERS); you rock!
 
 #### *If you see an article, software or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
@@ -11,6 +10,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Awesome EOS](#awesome-eos)
     - [dApp Projects](#dapp-projects)
     - [Block Producers Candidates](#block-producers-candidates)
+    - [Developers Channels](#Developers-Channels)
     - [EOS Libraries](#eos-libraries)
     - [Services](#services)    
     - [Tools](#tools)
@@ -71,7 +71,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Oracle Chain](https://oraclechain.io/index-en/) (China)
 
 #### Europe
-
 - [EOS Authority](https://eosauthority.com/) (England)
 - [EOSDAC](https://eosdac.io/) (England)
 - [EOS London](https://eos42.io/) - Empowering the Community (England)
@@ -95,6 +94,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### South America
 - [EOS Argentina](https://www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
+
+#### Developers Channels
+
+- [EOS Developer Telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ) :zap: - The main EOS developer's discussion channel
+- [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
+- [Reddit](https://www.reddit.com/r/EOSDev/) 
 
 ## EOS Libraries
 
@@ -125,8 +130,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 - [EOS Projects](https://eosprojects.org/) - Another directory of Projects based around EOS
-- [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
-- [EOS Developer Telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ) :zap: - The main EOS developer's discussion channel
 - [EOS Tracker](http://eostracker.io/) - EOS Block Explorer
 
 ## Tools
