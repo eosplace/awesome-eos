@@ -16,7 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Sample Contracts](#sample-contracts)
   
-## dApp EOS Projects (40)                                                               
+## dApp EOS Projects (42)                                                               
                                                                  
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
@@ -99,8 +99,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
 - [Reddit](https://www.reddit.com/r/EOSDev/) - Reddit EOS developer's channel
 
-
-
 ## EOS Libraries
 
 #### Go
@@ -131,7 +129,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## Tools
   
 - [eos-bios](https://github.com/eoscanada/eos-bios) - EOS.IO BIOS Program, to kickstart a new network.  
-- [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet. 
+- [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet.
+- [Eos factory](http://eosfactory.io/) - EOSFactory is a Python-based EOS smart-contract development & testing framework.
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
