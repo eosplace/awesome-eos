@@ -16,7 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Sample Contracts](#sample-contracts)
   
-## dApp EOS Projects (### 40)                                                               
+## dApp EOS Projects (40)                                                               
                                                                  
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
@@ -125,6 +125,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 - [EOS Projects](https://eosprojects.org/) - Another directory of Projects based around EOS
+- [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
 - [EOS Tracker](http://eostracker.io/) - EOS Block Explorer
 
 ## Tools
@@ -140,6 +141,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## Sample Contracts
 
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
+- [Eos-classified](https://github.com/wobondar/eos-classified-contract) - implements a simple classified records
+- [Eos-game-of-life](https://github.com/tbfleming/eos-game-of-life) - implements Conway's Game of Life in a contract
 - [Erc20](https://github.com/chenlian2015/eos/tree/master/contracts/erc20currency) :zap: - Creation, issuance, and transfering of tokens based on ERC20 standard
-- [Monstereos](https://github.com/leordev/monstereos/tree/master/contracts/pet) - Just a Tamagotchi Game on EOS Blockchain for Fun...
+- [Monstereos](https://github.com/leordev/monstereos/tree/master/contracts/pet) - A Tamagotchi Game on EOS Blockchain for Fun...
+- [Polleos](https://github.com/sim31/polleos) - Poll system smart contract on EOS
 - [Shine](https://github.com/eoscanada/shine/tree/master/contract) - Implementation of a recognition system based on praise and votes
+- [Timeos](https://github.com/sim31/timeos) - For timestamping service on EOS blockchain
+- [Voting](https://github.com/EOSMore/eos-contracts/tree/dev/more.voting) - Simple voting implementation
