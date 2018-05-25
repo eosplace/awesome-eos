@@ -130,5 +130,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## Sample Contracts
 
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
+- [Erc20](https://github.com/chenlian2015/eos/tree/master/contracts/erc20currency) :zap: - Creation, issuance, and transfering of tokens based on ERC20 standard
 - [Monstereos](https://github.com/leordev/monstereos/tree/master/contracts/pet) - Just a Tamagotchi Game on EOS Blockchain for Fun...
-- [Shine](https://github.com/eoscanada/shine/tree/master/contract) - Shine contracts
+- [Shine](https://github.com/eoscanada/shine/tree/master/contract) - Implementation of a recognition system based on praise and votes
