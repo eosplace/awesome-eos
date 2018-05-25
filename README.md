@@ -126,6 +126,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 - [EOS Projects](https://eosprojects.org/) - Another directory of Projects based around EOS
 - [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
+- [EOS Developer Telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ) :zap: - The main EOS developer's discussion channel
 - [EOS Tracker](http://eostracker.io/) - EOS Block Explorer
 
 ## Tools
