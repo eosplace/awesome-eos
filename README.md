@@ -109,6 +109,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
+#### PHP
+- [eos-php](https://github.com/kesar/eos-php) - EOS RPC api wrapper for PHP
 #### Python
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [EOSFactory](http://eosfactory.io/) - is a Python-based smart-contract development & testing framework
