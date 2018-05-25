@@ -16,7 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Sample Contracts](#sample-contracts)
   
-## dApp Projects                                                               
+## dApp Projects (#35)                                                               
                                                                  
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
@@ -30,11 +30,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
 - [EOSDAQ](http://www.eosdaq.com) - EOS Native Decentralized Cryptocurrency Exchange.
+- [ETHEOS](https://etheos.io/) - Blockchain Application Ecosystem.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
 - [Insights Network](https://insights.network/) - Blockchain-Based Data Exchange. EOS gives Dapp Builder’s the ability to build Commercial Scale DApps and support thousands of transactions per second with Parallel Execution, Asynchronous Communication and Separates Authentication from Execution.
 - [Irespo](https://irespo.com/) - The blockchain technology solution to transparent and effective global data exchange and analysis.
 - [IRYO](https://iryo.io/) - Redefining Global Healthcare. Unleashing the value of medical data for the new decentralised healthcare economy.
+- [Letitplay](https://letitplay.io/) - create, distribute and commercialize audio version of content.
+- [Matcheos](https://matcheos.com/) - New Way to Meet People using the EOS platform.
 - [MedicalDAO](http://medicaldao.io/) - Decentralize decision making in the medical industry
 - [MEET.ONE](https://meet.one/en/) - A Portal to EOS Ecology.
 - [Mithril](https://mithrilcoin.io/) - Next-generation mobile game advertising on the blockchain.
