@@ -21,10 +21,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
-- [Chintai](https://chintai-eos.io//) :zap: - High performance, fee-less community owned token leasing platform. 
+- [Chintai](https://chintai-eos.io/) :zap: - High performance, fee-less community owned token leasing platform. 
+- [Codum](https://codum.io/)  - The Code Market In Blockchain Community Driven. 
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
 - [Emanate](https://emanate.live/) - Discover sound from the source.
+- [EOSBet](http://www.eosbet.io) - The Future of Decentralized Gambling.
 - [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
 - [EOSDAQ](http://www.eosdaq.com) - EOS Native Decentralized Cryptocurrency Exchange.
