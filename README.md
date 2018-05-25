@@ -95,8 +95,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Argentina](https://www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
 
-#### Developers Channels
-
+## Developers Channels
 - [EOS Developer Telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ) :zap: - The main EOS developer's discussion channel
 - [EOS Stack Overflow](https://eosio.stackexchange.com/) :zap: - EOS questions and answers for developpers
 - [Reddit](https://www.reddit.com/r/EOSDev/) 
