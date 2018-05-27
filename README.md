@@ -54,7 +54,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
-- [Trade Stuff](https://www.tradestuff.com/) - radeStuff revives the oldest method of trade, moneyless barter, by introducing solutions to challenges affecting the practical application of peer-to-peer barter today.
+- [Trade Stuff](https://www.tradestuff.com/) - This app revives the oldest method of trade, moneyless barter, by introducing solutions to challenges affecting the practical application of peer-to-peer barter today.
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Uncloak](https://uncloak.io/) - Next Generation Cyber Security Threat Management
