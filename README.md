@@ -16,7 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Sample Contracts](#sample-contracts)
   
-## dApp EOS Projects (42)                                                               
+## dApp EOS Projects (43)                                                               
                                                                  
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
@@ -54,6 +54,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
+- [Trade Stuff](https://www.tradestuff.com/) - radeStuff revives the oldest method of trade, moneyless barter, by introducing solutions to challenges affecting the practical application of peer-to-peer barter today.
 - [Traffic Exchange Token](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Uncloak](https://uncloak.io/) - Next Generation Cyber Security Threat Management
