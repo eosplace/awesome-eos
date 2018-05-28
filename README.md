@@ -12,12 +12,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Block Producers Candidates](#block-producers-candidates)
     - [Developers Channels](#developers-channels)
     - [EOS Libraries](#eos-libraries)
+    - [Sample Contracts](#sample-contracts)    
     - [Services](#services)    
     - [Tools](#tools)
-    - [Sample Contracts](#sample-contracts)
+
   
-## dApp EOS Projects (43)                                                               
-                                                                 
+## dApp EOS Projects (43)                                                                                                 
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
@@ -120,28 +120,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Typescript
 - [eostypescript](https://github.com/EOSArgentina/eostypescript) - EOS TYPESCRIPT Library (contracts in typescript)
 
-## Services
-
-- [EOS Authority](https://eosauthority.com/) :zap: - A tool that helps you make sure that the public key with EOS is registered correctly.
-- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
-- [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
-- [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
-- [EOS Projects](https://eosprojects.org/) - Another directory of Projects based around EOS
-- [EOS Tracker](http://eostracker.io/) - EOS Block Explorer
-
-## Tools
-  
-- [eos-bios](https://github.com/eoscanada/eos-bios) - EOS.IO BIOS Program, to kickstart a new network.  
-- [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet.
-- [Eos factory](http://eosfactory.io/) - EOSFactory is a Python-based EOS smart-contract development & testing framework.
-- [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
-- [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
-- [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
-- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
-- [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
-
 ## Sample Contracts
-
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
 - [Eos-classified](https://github.com/wobondar/eos-classified-contract) - implements a simple classified records
 - [Eos-game-of-life](https://github.com/tbfleming/eos-game-of-life) - implements Conway's Game of Life in a contract
@@ -151,5 +130,25 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Shine](https://github.com/eoscanada/shine/tree/master/contract) - Implementation of a recognition system based on praise and votes
 - [Timeos](https://github.com/sim31/timeos) - For timestamping service on EOS blockchain
 - [Voting](https://github.com/EOSMore/eos-contracts/tree/dev/more.voting) - Simple voting implementation
+
+## Services
+- [EOS Authority](https://eosauthority.com/) :zap: - A tool that helps you make sure that the public key with EOS is registered correctly.
+- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
+- [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
+- [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
+- [EOS Projects](https://eosprojects.org/) - Another directory of Projects based around EOS
+- [EOS Tracker](http://eostracker.io/) - EOS Block Explorer
+
+## Tools
+- [eos-bios](https://github.com/eoscanada/eos-bios) - EOS.IO BIOS Program, to kickstart a new network.  
+- [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet.
+- [Eos factory](http://eosfactory.io/) - EOSFactory is a Python-based EOS smart-contract development & testing framework.
+- [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
+- [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
+- [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
+- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
+- [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
+
+
 
 [Home](#awesome-eos)
