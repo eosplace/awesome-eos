@@ -15,8 +15,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Sample Contracts](#sample-contracts)    
     - [Services](#services)    
     - [Tools](#tools)
+    - [Tutorials](#tutorials)
 
-  
 ## dApp EOS Projects (43)                                                                                                 
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
@@ -149,6 +149,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 
+## Tutorials
 
+#### Accounts
+- [Multisig](https://steemit.com/eos/@genereos/eos-multisig-tutorial) :zap: - Multisig account explanation and usage 
 
 [Home](#awesome-eos)
