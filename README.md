@@ -30,7 +30,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOSBet](http://www.eosbet.io) - The Future of Decentralized Gambling.
 - [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
-- [EOSDAQ](http://www.eosdaq.com) - EOS Native Decentralized Cryptocurrency Exchange.
+- [EOSDAQ](http://www.eosdaq.com)  - EOS Native Decentralized Cryptocurrency Exchange.
+- [EOSGems](http://www.eosgems.io) - EOS Gems is an EOS-based DApp and blockchain game  allowing players to trade, fuse, and collect gems. It is inspired by Cryptokitties.
 - [ETHEOS](https://etheos.io/) - Blockchain Application Ecosystem.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
