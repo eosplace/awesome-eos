@@ -153,6 +153,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 #### Accounts
 - [Multisig](https://steemit.com/eos/@genereos/eos-multisig-tutorial) :zap: - Multisig account explanation and usage 
-- [Smart Contracts]( https://github.com/EOSIO/eos/wiki/Tutorial-Getting-Started-With-Contractsl) _ Setup a local blockchain that can be used to experiment with smart contracts. 
+- [Smart Contracts]( https://github.com/EOSIO/eos/wiki/Tutorial-Getting-Started-With-Contractsl) - Setup a local blockchain that can be used to experiment with smart contracts. 
 
 [Home](#awesome-eos)
