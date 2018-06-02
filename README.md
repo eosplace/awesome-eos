@@ -126,6 +126,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Eos-classified](https://github.com/wobondar/eos-classified-contract) - implements a simple classified records
 - [Eos-game-of-life](https://github.com/tbfleming/eos-game-of-life) - implements Conway's Game of Life in a contract
 - [Erc20](https://github.com/chenlian2015/eos/tree/master/contracts/erc20currency) :zap: - Creation, issuance, and transfering of tokens based on ERC20 standard
+- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) :zap: - EOS smart contracts which run the Everipedia Network 
 - [Monstereos](https://github.com/leordev/monstereos/tree/master/contracts/pet) - A Tamagotchi Game on EOS Blockchain for Fun...
 - [Non-Fungible Token](https://github.com/unicoeos/eosio.nft) - A standard interface for non-fungible EOS tokens.
 - [Polleos](https://github.com/sim31/polleos) - Poll system smart contract on EOS
