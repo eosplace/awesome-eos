@@ -17,28 +17,35 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Tutorials](#tutorials)
 
-## dApp EOS Projects (44)                                                                                                 
+## dApp EOS Projects (54)                                                                                                 
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
+- [Cards & Tokens](cardsandtokens.com/en/) - A place where you can create, trade and collect cards of any topic and make money.
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
+- [Chaince](https://chaince.com/) - A Superior Blockchain Asset Trading Platform focusing on EOS Projects
 - [Chintai](https://chintai-eos.io/) :zap: - High performance, fee-less community owned token leasing platform. 
 - [Codum](https://codum.io/)  - The Code Market In Blockchain Community Driven. 
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
+- [DEOS games](https://deosgames.com/index.html)  - Play zero house edge, provably fair and truly decentralized games. 
 - [Emanate](https://emanate.live/) - Discover sound from the source.
 - [EOSBet](http://www.eosbet.io) - The Future of Decentralized Gambling.
 - [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
 - [EOSDAQ](http://www.eosdaq.com)  - EOS Native Decentralized Cryptocurrency Exchange.
+- [EOSFinex](http://www.eosfinex.com)  - The world's first high performance decentralized exchange. (DEX)
 - [EOSGems](http://www.eosgems.io) - EOS Gems is an EOS-based DApp and blockchain game  allowing players to trade, fuse, and collect gems. It is inspired by Cryptokitties.
 - [ETHEOS](https://etheos.io/) - Blockchain Application Ecosystem.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
+- [HorusPay](https://horuspay.io//) - Decentralized Global Payroll Portal that allows companies to exchange private encrypted secured data with international payroll vendors using the Blockchain.
 - [Insights Network](https://insights.network/) - Blockchain-Based Data Exchange. EOS gives Dapp Builder’s the ability to build Commercial Scale DApps and support thousands of transactions per second with Parallel Execution, Asynchronous Communication and Separates Authentication from Execution.
 - [Irespo](https://irespo.com/) - The blockchain technology solution to transparent and effective global data exchange and analysis.
 - [IRYO](https://iryo.io/) - Redefining Global Healthcare. Unleashing the value of medical data for the new decentralised healthcare economy.
+- [Lab Ledger](https://labledger.net/) - The future of innovation, knowledge and peer review.
 - [Letitplay](https://letitplay.io/) - create, distribute and commercialize audio version of content.
+- [KARMA](http://www.karmaapp.io/) - KARMA is designed to incentivize users to do good in the world
 - [Matcheos](https://matcheos.com/) - New Way to Meet People using the EOS platform.
 - [MedicalDAO](http://medicaldao.io/) - Decentralize decision making in the medical industry
 - [MEET.ONE](https://meet.one/en/) - A Portal to EOS Ecology.
@@ -50,10 +57,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [PlACTAL](https://plactal.io/) - Tokenizing Billions of Gamer’s Experience. A Portal to EOS Ecology.
 - [Prospectors](https://prospectors.io/) - Massive Multiplayer Online Real Time Economic Strategy
 - [Qobox](https://qobox.io/) - One step to make your ideas.
-- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
+- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain. (Wallet)
+- [Sense](https://www.sensetoken.com/) - The protocol for human knowledge
+- [Seyara](https://seyara.io/) - A Sharing economy protocol for the most advanced blockchain
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
 - [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
+- [Tokena](https://tokena.co/) - First EOS based Decentralized Exchange.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
 - [Trade Stuff](https://www.tradestuff.com/) - This app revives the oldest method of trade, moneyless barter, by introducing solutions to challenges affecting the practical application of peer-to-peer barter today.
 - [Traffic Exchange Token (TXT)](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
