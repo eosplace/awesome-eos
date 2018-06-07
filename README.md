@@ -17,7 +17,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Tools](#tools)
     - [Tutorials](#tutorials)
 
-## dApp EOS Projects (54)                                                                                                 
+## dApp EOS Projects (55)                                                                                                 
 - [Awoo! DAC](http://awoo.net/) - The Awoo! DAC is a collaboration and crowdfunding platform for people who want to achieve epic missions. One could say that Awoo! is the invisible paw of the EOS blockchain.
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
