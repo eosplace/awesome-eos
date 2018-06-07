@@ -36,6 +36,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOSDAQ](http://www.eosdaq.com)  - EOS Native Decentralized Cryptocurrency Exchange.
 - [EOSFinex](http://www.eosfinex.com)  - The world's first high performance decentralized exchange. (DEX)
 - [EOSGems](http://www.eosgems.io) - EOS Gems is an EOS-based DApp and blockchain game  allowing players to trade, fuse, and collect gems. It is inspired by Cryptokitties.
+- [EOXCommerce](http://www.eoxlab.io) - A decentralized ecommerce platform that allows EOS based currency and crypto-assets to be spent.
 - [ETHEOS](https://etheos.io/) - Blockchain Application Ecosystem.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
