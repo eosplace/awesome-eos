@@ -100,7 +100,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time (Canada)
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away  (USA)
 #### Oceania
-- [EOShere](https://www.eosphere.io/) - Enterprise class Block Production and Governance serving the entire EOShere (Australia)
+- [EOSphere](https://www.eosphere.io/) - Enterprise class Block Production and Governance serving the entire EOSphere (Australia)
 #### South America
 - [EOS Argentina](https://www.eosargentina.io/) (Argentina)
 - [EOS Rio](https://eosrio.io/) - EOS Rio is a Block Producer candidate based in Rio de Janeiro.  (Brazil)
