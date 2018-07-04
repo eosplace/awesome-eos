@@ -160,6 +160,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Eos factory](http://eosfactory.io/) - EOSFactory is a Python-based EOS smart-contract development & testing framework.
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
+- [FeeXplorer](https://eos.feexplorer.io/) - EOS Trading tool
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [MarketstackD](https://www.marketstackd.io/ramcalculator.html) - EOS Ram Buying Calculator
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
