@@ -170,6 +170,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 
+## Side Chains
+- [SBC](http://sbc.one/) - SBC is the world’s first side chain of EOS, a cheaper dapp developing platform for business end users.
+
 ## Tutorials
 
 #### Accounts
