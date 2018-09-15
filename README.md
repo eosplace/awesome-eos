@@ -194,6 +194,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Android/IOS
 - [Freewallet](https://freewallet.org/currency/eos) - Top up and withdraw from and to any cryptocurrency right from your EOS Wallet.
 - [Lynx](https://eoslynx.com/)  - The easiest way to send and receive EOS.
+- [Meet One](https://meet.one/#6) - The Portal to EOS Ecology (Wallet, DAPP entrance and EOS news.
 - [Token Pocket](https://www.mytokenpocket.vip/en/)  -TokenPocket saves you from developing EOS DApps.
 
 #### Desktop
