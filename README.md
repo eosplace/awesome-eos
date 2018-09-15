@@ -12,6 +12,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Block Producers Candidates](#block-producers-candidates)
     - [Developers Channels](#developers-channels)
     - [EOS Libraries](#eos-libraries)
+    - [Exchanges](#exchanges)
     - [Sample Contracts](#sample-contracts)    
     - [Services](#services)    
     - [Tools](#tools)
@@ -23,7 +24,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Billionaire Token](https://billionairetoken.com/) - Decentralized games on the blockchain. Currently on Ethereum “Until we migrate to the EOS Blockchain.”
 - [Cards & Tokens](cardsandtokens.com/en/) - A place where you can create, trade and collect cards of any topic and make money.
 - [Carmel IO](https://carmel.io/) - Learn How To Build A Better Future For All Of Us Grow Your Tech Skills With Programming Challenges And Earn Experience Points.
-- [Chaince](https://chaince.com/) - A Superior Blockchain Asset Trading Platform focusing on EOS Projects
 - [Chintai](https://chintai-eos.io/) :zap: - High performance, fee-less community owned token leasing platform. 
 - [Codum](https://codum.io/)  - The Code Market In Blockchain Community Driven. 
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
@@ -136,6 +136,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Typescript
 - [eostypescript](https://github.com/EOSArgentina/eostypescript) - EOS TYPESCRIPT Library (contracts in typescript)
 
+## Exchanges
+- [Chaince](https://chaince.com/) - A Superior Blockchain Asset Trading Platform focusing on EOS Projects
+
 ## Sample Contracts
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
 - [Eos-classified](https://github.com/wobondar/eos-classified-contract) - implements a simple classified records
@@ -175,6 +178,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Smart Contracts]( https://github.com/EOSIO/eos/wiki/Tutorial-Getting-Started-With-Contractsl) - Setup a local blockchain that can be used to experiment with smart contracts. 
 
 ## Wallets
-- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain. 
+
+#### Android
+- [Freewallet](https://freewallet.org/currency/eos) - Top up and withdraw from and to any cryptocurrency right from your EOS Wallet.
+- [Lynx](https://eoslynx.com/)  - The easiest way to send and receive EOS.
+
+#### Desktop
+
+- [Greymass]( https://github.com/greymass/eos-voter/)  - Simple light wallet and block producer voting tool for the EOS blockchain.
+- [Simpleos](https://eosrio.io/simpleos/)  - The easiest way to send and receive EOS.
+
+#### Web
+- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 
 [Home](#awesome-eos)
