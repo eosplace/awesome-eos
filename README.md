@@ -30,7 +30,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
 - [Emanate](https://emanate.live/) - Discover sound from the source.
-- [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
 - [EOSDAQ](http://www.eosdaq.com)  - EOS Native Decentralized Cryptocurrency Exchange.
 - [EOSFinex](http://www.eosfinex.com)  - The world's first high performance decentralized exchange. (DEX)
@@ -65,7 +64,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
 - [Trade Stuff](https://www.tradestuff.com/) - This app revives the oldest method of trade, moneyless barter, by introducing solutions to challenges affecting the practical application of peer-to-peer barter today.
 - [Traffic Exchange Token (TXT)](https://www.txtnet.io/) - A new protocol for the Advertising Economy powered by EOS.
-- [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Uncloak](https://uncloak.io/) - Next Generation Cyber Security Threat Management
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
 - [Worbli](https://www.worbli.io/) - The future of banking and financial blockchain services
@@ -136,9 +134,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Exchanges
 - [Chaince](https://chaince.com/) - A Superior Blockchain Asset Trading Platform focusing on EOS Projects
+- [Delta Dex](https://deltadex.io/trade/thedeosgames-DEOS) - Decentralized Exchange on EOS
 - [Dexeos](https://dexeos.io/) - The World Premier Decentralized Exchange on EOS
 - [NewDex](https://newdex.io/) - The first global decentralized exchange built on EOS
 - [Southex](https://southex.com/) - An EOS-based Decentralized Exchange
+- [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 
 ## Gambling    
 - [DEOS games](https://deosgames.com/index.html)  - Play zero house edge, provably fair and truly decentralized games. 
@@ -146,8 +146,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [EOS Lucky Dice](https://eos.win/i/knightplay11) - EOS Lucky Dice is a quiz game based on EOS,.
 
 ## Sample Contracts
-
-
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
 - [Eos-classified](https://github.com/wobondar/eos-classified-contract) - implements a simple classified records
 - [Eos-game-of-life](https://github.com/tbfleming/eos-game-of-life) - implements Conway's Game of Life in a contract
