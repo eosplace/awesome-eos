@@ -16,6 +16,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Services](#services)    
     - [Tools](#tools)
     - [Tutorials](#tutorials)
+    - [Wallets](#wallets)
 
 ## dApp EOS Projects (55)                                                                                                 
 - [Azarus]( https://azarus.io/) - A fair, reliable and transparent platform to play and bet for tokens.
@@ -161,12 +162,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [eos-bios](https://github.com/eoscanada/eos-bios) - EOS.IO BIOS Program, to kickstart a new network.  
 - [EosCommander](https://github.com/plactal/EosCommander) - EOS commander is an Android client for EOSIO blockchain for EOS dApp developer. It includes functions of wallet.
 - [Eos factory](http://eosfactory.io/) - EOSFactory is a Python-based EOS smart-contract development & testing framework.
-- [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 - [FeeXplorer](https://eos.feexplorer.io/) - EOS Trading tool
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [MarketstackD](https://www.marketstackd.io/ramcalculator.html) - EOS Ram Buying Calculator
-- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 
 ## Tutorials
@@ -174,5 +173,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Accounts
 - [Multisig](https://steemit.com/eos/@genereos/eos-multisig-tutorial) :zap: - Multisig account explanation and usage 
 - [Smart Contracts]( https://github.com/EOSIO/eos/wiki/Tutorial-Getting-Started-With-Contractsl) - Setup a local blockchain that can be used to experiment with smart contracts. 
+
+## Wallets
+- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain. 
 
 [Home](#awesome-eos)
