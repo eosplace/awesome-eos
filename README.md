@@ -13,6 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
     - [Developers Channels](#developers-channels)
     - [EOS Libraries](#eos-libraries)
     - [Exchanges](#exchanges)
+    - [Gambling](#gambling)  
     - [Sample Contracts](#sample-contracts)    
     - [Services](#services)    
     - [Tools](#tools)
@@ -28,16 +29,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Codum](https://codum.io/)  - The Code Market In Blockchain Community Driven. 
 - [Credify](https://Credify.one/) - Credify meaningfully enhances the relationships between consumers, producers and the ecosystems in which they connect, fosters transparency through fair and meritocratic credibility metrics.
 - [CYBEX](https://cybex.io/) - CYBEX is a decentralized exchange that seeks to improve the liquidity of crypto-assets that’s more transparent and secure than the centralized counterparts currently in the market today. CYBEX is an ecosystem that’s built and operated by a network of likeminded partners across the globe in a decentralized network.
-- [DEOS games](https://deosgames.com/index.html)  - Play zero house edge, provably fair and truly decentralized games. 
 - [Emanate](https://emanate.live/) - Discover sound from the source.
-- [EOSBet](http://www.eosbet.io) - The Future of Decentralized Gambling.
 - [EOSchat](http://eoschat.io/) - EOSchat is an EOS mobile client and next-generation decentralized social network that integrates digital currency storage, main network high-speed transaction, EOS elite community and encrypted instant messaging.
 - [EOS Commander](https://play.google.com/store/apps/details?id=io.mithrilcoin.eoscommander) - EOS Commander is client for EOS blockchain node for smart contract developers.
 - [EOSDAQ](http://www.eosdaq.com)  - EOS Native Decentralized Cryptocurrency Exchange.
 - [EOSFinex](http://www.eosfinex.com)  - The world's first high performance decentralized exchange. (DEX)
 - [EOSGems](http://www.eosgems.io) - EOS Gems is an EOS-based DApp and blockchain game  allowing players to trade, fuse, and collect gems. It is inspired by Cryptokitties.
 - [EOXCommerce](http://www.eoxlab.io) - A decentralized ecommerce platform that allows EOS based currency and crypto-assets to be spent.
-- [EOS SportsBets](http://eossportsbets.com/) - Peer to peer betting with no fees, transparency, security, and custom bets.
 - [ETHEOS](https://etheos.io/) - Blockchain Application Ecosystem.
 - [Everipedia](https://everipedia.org) - Everipedia is the next generation encyclopedia rebuilt for the modern age. With over 6 million articles and counting, it’s already the world’s largest English encyclopedia by content. Everipedia is free from ads and free to use for everyone under creative commons.
 - [HireVibes](https://hirevibes.io/) - HireVibes is an open source jobs platform that will operate as a Decentralised Autonomous Community on the EOS.IO blockchain.
@@ -59,7 +57,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [PlACTAL](https://plactal.io/) - Tokenizing Billions of Gamer’s Experience. A Portal to EOS Ecology.
 - [Prospectors](https://prospectors.io/) - Massive Multiplayer Online Real Time Economic Strategy
 - [Qobox](https://qobox.io/) - One step to make your ideas.
-- [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain. (Wallet)
 - [Sense](https://www.sensetoken.com/) - The protocol for human knowledge
 - [Seyara](https://seyara.io/) - A Sharing economy protocol for the most advanced blockchain
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
@@ -94,10 +91,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 #### Middle East
 - [LiquidEOS](https://liquideos.com/) - EOS Block Producer Candidate based in Israel and led by Bancor (Israel)
 #### North America
-- [Blockgenic](https://blockgenic.website/) (USA)            
+- [Blockgenic](https://blockgenic.website/) (USA)    
+- [Blocksmith](https://eosblocksmith.io/) (USA)   
 - [Cypherglass](https://www.cypherglass.com) (USA)
 - [EOS Canada](https://www.eoscanada.com/) (Canada)
 - [EOS Detroit](http://eosdetroit.com/) (USA)
+- [Liberty Block](https://libertyblock.io//) (Canada)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time (Canada)
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away  (USA)
 #### Oceania
@@ -138,6 +137,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Exchanges
 - [Chaince](https://chaince.com/) - A Superior Blockchain Asset Trading Platform focusing on EOS Projects
+- [Dexeos](https://dexeos.io/) - The World Premier Decentralized Exchange on EOS
+- [NewDex](https://newdex.io/) - The first global decentralized exchange built on EOS
+- [Southex](https://southex.com/) - An EOS-based Decentralized Exchange
+
+## Gambling    
+
+- [DEOS games](https://deosgames.com/index.html)  - Play zero house edge, provably fair and truly decentralized games. 
+- [EOSBet](http://www.eosbet.io) :zap: - The Future of Decentralized Gambling.
 
 ## Sample Contracts
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
@@ -154,6 +161,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Voting](https://github.com/EOSMore/eos-contracts/tree/dev/more.voting) - Simple voting implementation
 
 ## Services
+
+- [Dappradar](https://dappradar.com/eos-dapps/) :zap: - List of EOS dapps with statistics
 - [EOS Authority](https://eosauthority.com/) :zap: - A tool that helps you make sure that the public key with EOS is registered correctly.
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
