@@ -60,7 +60,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Sense](https://www.sensetoken.com/) - The protocol for human knowledge
 - [Seyara](https://seyara.io/) - A Sharing economy protocol for the most advanced blockchain
 - [SFEOS](http://www.sfeos.io/) - A Player Founded, Free to Play, Low Graphics, Highly Immersive, Turn Based, Science Fiction MMO built on the EOS Platform.
-- [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
 - [SuperOne](https://superone.io/) - Decentralized Exchange Platform.
 - [Tokena](https://tokena.co/) - First EOS based Decentralized Exchange.
 - [Tokenika](http://tokenika.io) - Created for building industrial-scale decentralized applications. It’s fast, scalable, flexible and usable. We aspire to contribute to the emerging EOS community by providing information & tools, and by developing dapps.
@@ -142,9 +141,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Southex](https://southex.com/) - An EOS-based Decentralized Exchange
 
 ## Gambling    
-
 - [DEOS games](https://deosgames.com/index.html)  - Play zero house edge, provably fair and truly decentralized games. 
 - [EOSBet](http://www.eosbet.io) :zap: - The Future of Decentralized Gambling.
+- [EOS Lucky Dice](https://eos.win/i/knightplay11) - EOS Lucky Dice is a quiz game based on EOS,.
 
 ## Sample Contracts
 - [EOSIO](https://github.com/EOSIO/eos/tree/master/contracts) :zap: - Eosio contracts
@@ -163,6 +162,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 ## Services
 
 - [Dappradar](https://dappradar.com/eos-dapps/) :zap: - List of EOS dapps with statistics
+- [EOS Account Creator](https://eos-account-creator.com//)  - Allows you to create an EOS account 
 - [EOS Authority](https://eosauthority.com/) :zap: - A tool that helps you make sure that the public key with EOS is registered correctly.
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
@@ -188,16 +188,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 
 ## Wallets
 
-#### Android
+#### Android/IOS
 - [Freewallet](https://freewallet.org/currency/eos) - Top up and withdraw from and to any cryptocurrency right from your EOS Wallet.
 - [Lynx](https://eoslynx.com/)  - The easiest way to send and receive EOS.
+- [Token Pocket](https://www.mytokenpocket.vip/en/)  -TokenPocket saves you from developing EOS DApps.
 
 #### Desktop
-
+- [EOS-Wallet](https://github.com/eos-uk/EOS-Wallet/releases/) - From eos-uk block producer
 - [Greymass]( https://github.com/greymass/eos-voter/)  - Simple light wallet and block producer voting tool for the EOS blockchain.
 - [Simpleos](https://eosrio.io/simpleos/)  - The easiest way to send and receive EOS.
 
 #### Web
+- [MyEosDapps](https://eosplace.github.io/eosmsg/index.html) - Easy to use wallet that includes a messenger and Dapps aggregation
 - [Scatter](http://scatter-eos.com/) :zap: - Scatter is a Decentralized-Application Bridge for the EOS Blockchain.
+- [Starteos](https://wallet.starteos.io/) - Your first smart digital wallet on EOS plataform.
 
 [Home](#awesome-eos)
