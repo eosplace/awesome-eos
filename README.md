@@ -153,6 +153,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [Erc20](https://github.com/chenlian2015/eos/tree/master/contracts/erc20currency) :zap: - Creation, issuance, and transfering of tokens based on ERC20 standard
 - [Everipedia](https://github.com/EveripediaNetwork/Everipedia) :zap: - EOS smart contracts which run the Everipedia Network 
 - [fairdicegame](https://github.com/Dappub/fairdicegame) :zap: - Open-sourced, rig-resistant and verifiably fair dice game 
+- [GoalBarClub](https://github.com/goalbarclub/contracts) :zap: - Goalbarclub dapp contracts
 - [Monstereos](https://github.com/leordev/monstereos/tree/master/contracts/pet) - A Tamagotchi Game on EOS Blockchain for Fun...
 - [Non-Fungible Token](https://github.com/unicoeos/eosio.nft) - A standard interface for non-fungible EOS tokens.
 - [Polleos](https://github.com/sim31/polleos) - Poll system smart contract on EOS
