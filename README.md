@@ -68,7 +68,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [UNICO](https://www.unico.global/) - "Cryptocollectibles as a Service" i.e. a platform to turn any digital content into limited-edition cryptocollectibles and sell them.
 - [Worbli](https://www.worbli.io/) - The future of banking and financial blockchain services
 - [Zimbra](https://www.worbli.io/) - Container-based, cloud-native product that can leverage the advancements of blockchain technology.
-
+- [ONE](http://www.onechain.one/) - ONE is an one-stop platform that Integrated digital wallet, decentralized exchange and decentralized chat, supports all EOS based crypto-assets.
+ 
 ## Block Producers Candidates
 
 #### [Last Report](https://busy.org/@eosgo/eos-block-producer-candidate-report-10-may-30-2018/) :zap:
@@ -181,6 +182,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/e
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [MarketstackD](https://www.marketstackd.io/ramcalculator.html) - EOS Ram Buying Calculator
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
+
+## Side Chains
+- [SBC](http://sbc.one/) - SBC is the world’s first side chain of EOS, a cheaper dapp developing platform for business end users.
 
 ## Tutorials
 
